@@ -1,5 +1,5 @@
 /*---------------------------------------------------------*/
-/*Autor: RAmos Santos Nancy Miren -------------------------*/
+/*Autor: Ramos Santos Nancy Miren -------------------------*/
 /*E_mail: minkykpoper@gmail.com --------- -----------------*/
 /*fecha de Creacion: 19/04/2018 ---------------------------*/
 /*Fecha de Actualizacion: ---------------------------------*/
