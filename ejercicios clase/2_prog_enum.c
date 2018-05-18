@@ -1,9 +1,4 @@
-/*--------------------------------------------------*/
-/*Autor: Ramos Santos Nancy Miren ------------------*/
-/*E_mail: minkykpoper@gmail.com --------------------*/
-/*Fecha de Creacion: 24/04/2018 --------------------*/
-/*Fecha de Actualizacion: 24/04/2018 ---------------*/
-/*Descripcion:  arreglo de constantes ------------- */
+
 
 #include<stdio.h>
 
